@@ -1,0 +1,8 @@
+162.214.160.118 www.facebook.com
+162.214.160.118 facebook.com
+162.214.160.118 www.netflix.com
+162.214.160.118 netflix.com
+162.214.160.118 www.chatgpt.com
+162.214.160.118 chatgpt.com
+162.214.160.118 www.tiktok.com
+162.214.160.118 tiktok.com
