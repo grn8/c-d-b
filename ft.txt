@@ -1,8 +1,8 @@
-162.214.160.118 www.facebook.com
-162.214.160.118 facebook.com
-162.214.160.118 www.netflix.com
-162.214.160.118 netflix.com
-162.214.160.118 www.chatgpt.com
-162.214.160.118 chatgpt.com
-162.214.160.118 www.tiktok.com
-162.214.160.118 tiktok.com
+www.facebook.com
+facebook.com
+www.netflix.com
+netflix.com
+www.chatgpt.com
+chatgpt.com
+www.tiktok.com
+tiktok.com
